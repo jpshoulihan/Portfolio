@@ -31,7 +31,7 @@ const project = [
         'Route optimizing application',
         'Implemented the Haversine method to convert the distance from two GPS locations to time',
         'Used the Nearest Neighbour Algorithm to find the fastest delivery route',
-        'GUI allows user to inpout delivery details as CSV, output is fasted route to take'
+        'GUI allows user to input delivery details as CSV, output is fasted route to take'
       ],
     },
     {
