@@ -3,7 +3,7 @@ const project = [
       id: '63884249-8e32-4f67-95a4-6110fddb23bf',
       title: 'Workout Tracker',
       type: 'Web Application',
-      stack: 'Typescript, Nest.js, Postgres, React.js, SCSS',
+      stack: 'Typescript, Nest.js, TypeORM, Postgres, React.js, SCSS',
       url: `https://github.com/jpshoulihan/workout_tracker_api`,
       details: [
         'Currently collaborating on a wellness web application that enables the user to plan workout routines and keep track of progress'
