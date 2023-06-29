@@ -3,8 +3,8 @@ const project = [
       id: '63884249-8e32-4f67-95a4-6110fddb23bf',
       title: 'Workout Tracker',
       type: 'Web Application',
-      stack: 'Typescript, Node.js, Express, MongoDB, React.js, SCSS',
-      url: `https://github.com/jpshoulihan/collab_project_back`,
+      stack: 'Typescript, Nest.js, Postgres, React.js, SCSS',
+      url: `https://github.com/jpshoulihan/workout_tracker_api`,
       details: [
         'Currently collaborating on a wellness web application that enables the user to plan workout routines and keep track of progress'
       ],
@@ -31,7 +31,7 @@ const project = [
         'Route optimizing application',
         'Implemented the Haversine method to convert the distance from two GPS locations to time',
         'Used the Nearest Neighbour Algorithm to find the fastest delivery route',
-        'GUI allows user to inpout delivery details as CSV, output is fasted route to take'
+        'GUI allows user to input delivery details as CSV, output is fasted route to take'
       ],
     },
     {
